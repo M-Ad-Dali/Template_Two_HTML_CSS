@@ -738,6 +738,20 @@ header nav .form i {
   margin-bottom: 20px;
   display: block;
 }
+.quote q::before {
+  font-family: "Font Awesome 6 Free";
+  content: "\f100";
+  font-weight: 900;
+  position: relative;
+  margin-right: 10px;
+}
+.quote q::after {
+  font-family: "Font Awesome 6 Free";
+  content: "\f101";
+  font-weight: 900;
+  position: relative;
+  margin-left: 10px;
+}
 /* End Quote */
 /* Start Pricing */
 .pricing {
