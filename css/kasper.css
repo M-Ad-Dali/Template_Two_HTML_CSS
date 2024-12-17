@@ -168,7 +168,7 @@ header nav ul li a:hover {
 }
 header nav .search:hover {
   color: var(--min-color);
-  transition: 0.3;
+  transition: 0.3s;
   cursor: pointer;
 }
 header nav .form {
@@ -244,7 +244,7 @@ header nav .form i {
 }
 .landing .change-background:hover {
   color: var(--min-color);
-  transition: 0.3;
+  transition: 0.3s;
   cursor: pointer;
 }
 @media (max-width: 767px) {
@@ -267,7 +267,7 @@ header nav .form i {
 }
 .landing .bullets li:hover {
   border: 1px solid var(--min-color);
-  transition: 0.3;
+  transition: 0.3s;
   cursor: pointer;
 }
 .landing .bullets li {
@@ -658,7 +658,7 @@ header nav .form i {
 }
 .our-skills .testimonials .bullets li:hover {
   border: 1px solid var(--min-color);
-  transition: 0.3;
+  transition: 0.3s;
   cursor: pointer;
 }
 .our-skills .testimonials .bullets li.active {
@@ -824,11 +824,11 @@ header nav .form i {
   border: 1px solid var(--min-color);
   width: fit-content;
   margin: 30px auto;
+  transition: 0.3s;
 }
 .pricing .plans .plan .foot a:hover {
   background-color: var(--min-color);
   color: var(--secondary-color);
-  transition: 0.3;
 }
 .pricing .contact-text {
   text-align: center;
@@ -1035,7 +1035,7 @@ header nav .form i {
 }
 .footer .social-icons i:hover {
   color: var(--min-color);
-  transition: 0.3;
+  transition: 0.3s;
   cursor: pointer;
 }
 .footer .copyright {
